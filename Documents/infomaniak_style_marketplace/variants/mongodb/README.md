@@ -1,0 +1,1 @@
+MongoDB variant: use MONGODB_URI in .env to enable.

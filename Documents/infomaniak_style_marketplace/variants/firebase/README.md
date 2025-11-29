@@ -1,0 +1,1 @@
+Firebase variant placeholder - implement firebase SDK setup as needed.
